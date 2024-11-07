@@ -71,3 +71,4 @@ node_modules/
 firebase-tools-macos
 
 __MACOSX
+.DS_Store
